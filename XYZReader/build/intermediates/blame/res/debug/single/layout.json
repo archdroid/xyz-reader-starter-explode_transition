@@ -96,10 +96,6 @@
         "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
-        "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/layout/notification_template_icon_group.xml"
-    },
-    {
         "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
@@ -132,10 +128,6 @@
         "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/layout/notification_action.xml"
-    },
-    {
         "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
         "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/layout/abc_activity_chooser_view.xml"
     },
@@ -158,10 +150,6 @@
     {
         "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/layout/notification_action_tombstone.xml"
     },
     {
         "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",

@@ -25,4 +25,10 @@
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
 
+    <style name="MyTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowContentTransitions">true</item>
+        <!--<item name="android:windowActivityTransitions">true</item>-->
+        <item name="android:windowExitTransition">@transition/activitya_exit</item>
+    </style>
+
 </resources>

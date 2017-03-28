@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/pre-dexed/debug/volley_0a07973d4b598dadd4aba49f93d1c3fff9dd004e.jar" />
+    </item>
+
+</items>
