@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Mar 28 20:51:24 BST 2017
+#Tue Mar 28 21:52:32 BST 2017
 14.set=ANDROID_RESOURCE
 180.file=/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable/abc_seekbar_track_material.xml
 118.set=ANDROID_RESOURCE
