@@ -1,4 +1,4 @@
-#Tue Mar 28 19:52:09 BST 2017
+#Tue Mar 28 20:51:23 BST 2017
 base.0=/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
