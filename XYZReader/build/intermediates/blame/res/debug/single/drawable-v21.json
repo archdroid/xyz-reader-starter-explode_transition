@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
+        "source": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

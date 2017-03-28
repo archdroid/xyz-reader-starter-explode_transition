@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/archied/Desktop/improvexyz/xyz-reader-starter-explode_transition/XYZReader/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/archied/.android/build-cache/803756c2f9653c19e784373ba89624918a3c6ae1/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]
